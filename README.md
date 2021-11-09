@@ -3,7 +3,7 @@
 Simple app made using Vue.Js CDN in order to explore Vue.js
 
 ## The outcome: 
-[![screenshot of the app](./screenshot.png "screenshot of the app")](https://github.com/vladimir-bogomolov/vue-js-random-user-generator)
+[![screenshot of the app](./2cnjJeZ4Vl.gif "screenshot of the app")](https://github.com/vladimir-bogomolov/vue-js-random-user-generator)
 
 ## The Stack: 
 The page built with **HTML, CSS and JavaScript**.
